@@ -58,3 +58,4 @@ Der Code ist modular aufgebaut, jede Seite hat ihre eigene Dart-Datei:
 - skills.dart: Fähigkeiten-Seite.
 - navigation_drawer.dart: Navigation Drawer Widget.
 
+Wenn Sie Fragen haben, können Sie mich unter folgender E-Mail-Adresse erreichen: [aymane.ibarkanen@mnd.thm.de](mailto:torsten.steinmueller@mni.thm.de)
